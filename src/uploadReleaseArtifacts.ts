@@ -1,6 +1,6 @@
 import * as core from '@actions/core'
 import * as github from '@actions/github'
-import glob from '@actions/glob'
+import * as glob from '@actions/glob'
 import { lstatSync, readFileSync } from 'fs'
 import path from 'path'
 import md5File from 'md5-file'
