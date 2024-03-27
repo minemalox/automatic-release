@@ -15,8 +15,8 @@ dependencies:
     specifier: 0.4.0
     version: 0.4.0
   '@octokit/rest':
-    specifier: 16.36.0
-    version: 16.36.0
+    specifier: 16.43.2
+    version: 16.43.2(@octokit/core@6.0.1)
   conventional-changelog-angular:
     specifier: 5.0.13
     version: 5.0.13
@@ -951,25 +951,6 @@ packages:
       '@octokit/request-error': 6.0.2
       '@octokit/types': 12.6.0
       universal-user-agent: 7.0.2
-    dev: false
-
-  /@octokit/rest@16.36.0:
-    resolution: {integrity: sha512-zoZj7Ya4vWBK4fjTwK2Cnmu7XBB1p9ygSvTk2TthN6DVJXM4hQZQoAiknWFLJWSTix4dnA3vuHtjPZbExYoCZA==}
-    dependencies:
-      '@octokit/request': 5.6.3
-      '@octokit/request-error': 1.2.1
-      atob-lite: 2.0.0
-      before-after-hook: 2.2.3
-      btoa-lite: 1.0.0
-      deprecation: 2.3.1
-      lodash.get: 4.4.2
-      lodash.set: 4.3.2
-      lodash.uniq: 4.5.0
-      octokit-pagination-methods: 1.1.0
-      once: 1.4.0
-      universal-user-agent: 4.0.1
-    transitivePeerDependencies:
-      - encoding
     dev: false
 
   /@octokit/rest@16.43.2(@octokit/core@6.0.1):
