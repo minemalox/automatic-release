@@ -12,7 +12,7 @@
     "@actions/github": "2.2.0",
     "@actions/glob": "0.4.0",
     "@octokit/rest": "16.36.0",
-    "conventional-changelog-angular": "5.0.13",
+    "conventional-changelog-angular": "8.0.0",
     "conventional-commits-parser": "3.2.4",
     "md5-file": "5.0.0",
     "semver": "7.6.0"
