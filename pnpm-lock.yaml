@@ -34,9 +34,9 @@ devDependencies:
   '@octokit/types':
     specifier: 12.6.0
     version: 12.6.0
-  '@tsconfig/node20':
-    specifier: 20.1.4
-    version: 20.1.4
+  '@tsconfig/node22':
+    specifier: 22.0.0
+    version: 22.0.0
   '@types/conventional-commits-parser':
     specifier: 5.0.0
     version: 5.0.0
@@ -1029,8 +1029,8 @@ packages:
       '@sinonjs/commons': 3.0.1
     dev: true
 
-  /@tsconfig/node20@20.1.4:
-    resolution: {integrity: sha512-sqgsT69YFeLWf5NtJ4Xq/xAF8p4ZQHlmGW74Nu2tD4+g5fAsposc4ZfaaPixVu4y01BEiDCWLRDCvDM5JOsRxg==}
+  /@tsconfig/node22@22.0.0:
+    resolution: {integrity: sha512-twLQ77zevtxobBOD4ToAtVmuYrpeYUh3qh+TEp+08IWhpsrIflVHqQ1F1CiPxQGL7doCdBIOOCF+1Tm833faNg==}
     dev: true
 
   /@types/babel__core@7.20.5:
