@@ -38,8 +38,8 @@ devDependencies:
     specifier: 20.1.4
     version: 20.1.4
   '@types/conventional-commits-parser':
-    specifier: 5.0.0
-    version: 5.0.0
+    specifier: 5.0.2
+    version: 5.0.2
   '@types/express':
     specifier: 4.17.21
     version: 4.17.21
@@ -1075,8 +1075,8 @@ packages:
       '@types/node': 20.12.7
     dev: true
 
-  /@types/conventional-commits-parser@5.0.0:
-    resolution: {integrity: sha512-loB369iXNmAZglwWATL+WRe+CRMmmBPtpolYzIebFaX4YA3x+BEfLqhUAV9WanycKI3TG1IMr5bMJDajDKLlUQ==}
+  /@types/conventional-commits-parser@5.0.2:
+    resolution: {integrity: sha512-BgT2szDXnVypgpNxOK8aL5SGjUdaQbC++WZNjF1Qge3Og2+zhHj+RWhmehLhYyvQwqAmvezruVfOf8+3m74W+g==}
     dependencies:
       '@types/node': 20.12.7
     dev: true
